@@ -1,0 +1,7 @@
+name: GraphQL Query Map Entity
+type: module
+description: 'A GraphQL persisted queries implementation which uses configuration entities to store query maps.'
+package: GraphQL
+core: 8.x
+dependencies:
+- graphql:graphql
